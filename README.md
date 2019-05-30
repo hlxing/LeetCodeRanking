@@ -2,7 +2,7 @@
 
 |头衔|排名|ID|AC题目数量|链接|
 |---|---|---|---|---|
-|帝王|1|Lisanaaa|1500|https://xiaozhuanlan.com/Lisanaaa|
+|帝王|1|Lisanaaa|1500|Lisanaaa的算法专栏 https://xiaozhuanlan.com/Lisanaaa|
 |真人|2|艒黙| 750|       |
 |真人|3|fcouds|668||
 |祖师|4|Adam|585||
