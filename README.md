@@ -57,10 +57,9 @@
 
 6. 欢迎新人加群，入群条件是在任意一个OJ平台AC 50道题。
 
+
 ![](https://github.com/zkangHUST/LeetCodeRanking/blob/master/Src/QQ.jpg?raw=true)
 
 群号码：598880963
 
-
-
-
+祝大家刷题愉快，早日向大佬看齐！
