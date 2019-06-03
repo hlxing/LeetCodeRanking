@@ -17,7 +17,7 @@
 |门徒|11|~浑蛋~|200|
 |门徒|11|茹静|200||
 |学童|15|欧舒萨蒂|190||
-|学童|16|vincent|179|https://zhengkang.blog.csdn.net/|
+|学童|16|vincent|182|https://zhengkang.blog.csdn.net/|
 |学童|17|平洋客|170|
 |麻瓜|18|ek45|142||
 |麻瓜|19|Hyu|120||
